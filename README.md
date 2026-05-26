@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Aravindraj M
+#👋 Hi, I'm Aravindraj M
 
 ### AI/ML Enthusiast | AI & DS Student
 
