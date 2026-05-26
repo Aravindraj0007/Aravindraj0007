@@ -58,9 +58,8 @@
 
 # 🌐 Connect With Me
 
-<p>
 <a href="mailto:aravind040806@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://linkedin.com/in/aravindraj-m-35714632a">
