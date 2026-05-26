@@ -1,6 +1,6 @@
 🚀 Hi, I'm Aravindraj M
 AI/ML Enthusiast | Computer Vision Developer | AI & DS Student
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=false&vCenter=true&width=600&lines=Computer+Vision+Developer;AI%2FML+Engineer;Backend+API+Developer;Building+Real-World+AI+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=false&vCenter=true&width=600&lines;AI%2FML+Engineer;Backend+API+Developer;Building+Real-World+AI+Solutions" />
 👨‍💻 About Me
 
 🎓 B.Tech Artificial Intelligence and Data Science student at Kumaraguru College of Technology, Coimbatore.
