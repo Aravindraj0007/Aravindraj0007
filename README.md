@@ -74,6 +74,8 @@
 
 ---
 
-# 👀 Profile Views
+#  Profile Views
 
-![](https://komarev.com/ghpvc/?username=Aravindraj0007&style=for-the-badge)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Aravindraj0007&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+</p>
