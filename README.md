@@ -1,76 +1,99 @@
-# Hi, I'm Aravindraj M
+🚀 Hi, I'm Aravindraj M
+AI/ML Enthusiast | Computer Vision Developer | AI & DS Student
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=false&vCenter=true&width=600&lines=Computer+Vision+Developer;AI%2FML+Engineer;Backend+API+Developer;Building+Real-World+AI+Solutions" />
+👨‍💻 About Me
 
-AI/ML enthusiast, Computer Vision developer, and B.Tech Artificial Intelligence and Data Science student from Coimbatore, Tamil Nadu.
+🎓 B.Tech Artificial Intelligence and Data Science student at Kumaraguru College of Technology, Coimbatore.
 
-I build practical AI solutions using computer vision, machine learning, backend APIs, automation workflows, and data-driven systems.
+💡 Passionate about:
 
-## About Me
+Computer Vision
+Machine Learning
+Deep Learning
+Intelligent Automation
+Backend APIs
 
-- Studying B.Tech Artificial Intelligence and Data Science at Kumaraguru College of Technology, Coimbatore.
-- Interested in Computer Vision, Machine Learning, Deep Learning, and Intelligent Automation.
-- Building real-world AI projects with measurable impact.
-- Selected as AI/ML Level 1 Member at iQube Innovation Center.
-- Secured 2nd Place in Maatram Hackforge 2.0.
+🏆 Achievements:
 
-## Technical Skills
-
-| Area | Skills |
-| --- | --- |
-| Languages | C, C++, Python, Java |
-| AI/ML | Machine Learning, Deep Learning |
-| Computer Vision | OpenCV, MediaPipe, YOLO |
-| Backend | FastAPI, REST API |
-| Database | MySQL, SQLite |
-| Frontend | HTML, CSS, JavaScript |
-| Tools | Git, n8n |
-
-## Featured Projects
-
-### Bharatanatyam Mudra Detection
+🥈 2nd Place — Maatram Hackforge 2.0
+🤖 AI/ML Level 1 Member — iQube Innovation Center
+🛠️ Tech Stack
+👨‍💻 Languages
+<p> <img src="https://skillicons.dev/icons?i=c,cpp,python,java" /> </p>
+🤖 AI/ML & Computer Vision
+<p> <img src="https://skillicons.dev/icons?i=tensorflow,opencv" /> <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=ai&logoColor=white"/> <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge"/> </p>
+⚙️ Backend & Database
+<p> <img src="https://skillicons.dev/icons?i=fastapi,mysql,sqlite" /> </p>
+🌐 Frontend
+<p> <img src="https://skillicons.dev/icons?i=html,css,js" /> </p>
+🧰 Tools & Automation
+<p> <img src="https://skillicons.dev/icons?i=git,github" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/> </p>
+🚀 Featured Projects
+🖐️ Bharatanatyam Mudra Detection
 
 Real-time gesture recognition system using hand landmark detection and deep learning for mudra classification.
 
-- Tech stack: Python, OpenCV, MediaPipe, TensorFlow, YOLO
-- Highlights: Real-time feedback, custom dataset, multi-class classification
-- Repository: [mudra-identification](https://github.com/Aravindraj0007/mudra-identification)
+🔹 Features
+Real-time feedback
+Multi-class classification
+Custom dataset training
+Hand landmark tracking
+🛠️ Tech Stack
 
-### PatientPath AI - Hospital Flow Optimization
+Python • OpenCV • MediaPipe • TensorFlow • YOLO
 
-Hospital monitoring and optimization system for occupancy tracking, wait-time prediction, bottleneck detection, staff allocation, and automated alerts.
+🔗 Repository:
 
-- Tech stack: YOLO, FastAPI, OpenCV, MySQL, n8n, WebSockets, Chart.js
-- Highlights: 7 departments, risk scoring, automated recommendations
-- Repository: [SANKARA_INNOVATION_CHALLENGE_2026](https://github.com/Kishore-mp45/SANKARA_INNOVATION_CHALLENGE_2026.git)
 
-### Smart Exam Cell Management System
+🏥 PatientPath AI — Hospital Flow Optimization
 
-Full-stack academic management system for students, exams, and results with role-based access, CRUD operations, search, pagination, and normalized database design.
+AI-powered hospital monitoring system for occupancy tracking, wait-time prediction, bottleneck detection, and automated alerts.
 
-- Tech stack: HTML, CSS, JavaScript, MySQL
-- Highlights: Role-based access, multi-field search, pagination
-- Repository: [SMART-EXAM-CELL-MANAGEMENT-SYSTEM](https://github.com/Aravindraj0007/SMART-EXAM-CELL-MANAGEMENT-SYSTEM.git)
+🔹 Features
+Occupancy monitoring
+Wait-time prediction
+Risk scoring
+Automated recommendations
+WebSocket live updates
+🛠️ Tech Stack
 
-### WhatsApp Automation Booking
+YOLO • FastAPI • OpenCV • MySQL • n8n • Chart.js
 
-Automation workflow for booking-related communication using n8n and webhook-based automation concepts.
+🔗 Repository:
 
-- Tech stack: n8n, Automation Workflow, Webhooks
-- Highlights: Workflow automation, webhook logic, booking communication
-- Repository: [n8n-automation-booking](https://github.com/Aravindraj0007/n8n-automation-booking.git)
 
-## Achievements
+🎓 Smart Exam Cell Management System
 
-- Secured 2nd Place in Maatram Hackforge 2.0.
-- Selected as AI/ML Level 1 Member at iQube Innovation Center.
+Full-stack academic management system with role-based access and normalized database design.
 
-## GitHub Stats
+🔹 Features
+Role-based authentication
+CRUD operations
+Search & pagination
+Academic workflow management
+🛠️ Tech Stack
 
-![Aravindraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aravindraj0007&show_icons=true&theme=tokyonight&hide_border=true)
+HTML • CSS • JavaScript • MySQL
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindraj0007&layout=compact&theme=tokyonight&hide_border=true)
+🔗 Repository:
 
-## Connect With Me
 
-- Email: [aravind040806@gmail.com](mailto:aravind040806@gmail.com)
-- LinkedIn: [linkedin.com/in/aravindraj-m-35714632a](https://linkedin.com/in/aravindraj-m-35714632a)
-- GitHub: [github.com/Aravindraj0007](https://github.com/Aravindraj0007)
+🤖 WhatsApp Automation Booking
+
+Automation workflow for booking communication using n8n and webhook-based systems.
+
+🔹 Features
+Workflow automation
+Webhook integrations
+Booking communication logic
+🛠️ Tech Stack
+
+n8n • Webhooks • Automation Workflow
+
+🔗 Repository:
+
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aravindraj0007&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindraj0007&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </p>
+🌐 Connect With Me
+<p> <a href="mailto:aravind040806@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/aravindraj-m-35714632a"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Aravindraj0007"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
